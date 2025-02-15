@@ -41,7 +41,7 @@ struct ContentView: View {
             Image(systemName: "heart.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Swiftful text")
+            Text("Swiftful thinking")
             Button("Subscribe now") {
                 
             }
